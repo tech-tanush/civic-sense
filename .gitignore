@@ -13,6 +13,10 @@ build/
 # Databases and Uploads (keep directory, ignore dynamic data if desired)
 server/db/*.db
 server/db/*.db-journal
+*.sqlite
+*.sqlite3
+server/db/*.sqlite
+server/db/*.sqlite3
 
 # Logs
 *.log
