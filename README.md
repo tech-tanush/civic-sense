@@ -1,6 +1,8 @@
 # Civic Sense 🏛️
 ### Intelligent Municipal Issue Reporting, Perceptual Duplicate Triaging & Public Accountability Platform
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://client-three-chi-63.vercel.app/)
+[![API Status](https://img.shields.io/badge/API_Status-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://civic-sense-7mk3.onrender.com/api/health)
 [![React](https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-5.0-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
@@ -13,6 +15,9 @@
 ## 📌 Overview
 
 **Civic Sense** is a full-stack civic-tech platform that bridges the communication gap between citizens and municipal authorities. Traditional grievance redressal systems suffer from duplicate complaint backlogs, slow response times, and a complete lack of transparency for reporting citizens.
+
+- 🌐 **Live Web Application:** [https://client-three-chi-63.vercel.app/](https://client-three-chi-63.vercel.app/)
+- ⚡ **Backend API Endpoint:** [https://civic-sense-7mk3.onrender.com](https://civic-sense-7mk3.onrender.com)
 
 Civic Sense automates the complaint ingestion and triaging lifecycle using **perceptual image hashing (`dHash`)**, **geospatial proximity analysis**, and an **algorithmic priority scoring engine**—delivering real-time public issue tracking without login friction.
 
