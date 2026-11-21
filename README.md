@@ -202,7 +202,7 @@ npm run test:e2e
 
 ## 👤 Author
 
-**Tanush**  
+**Tanush Vijan**  
 - **GitHub:** [@tech-tanush](https://github.com/tech-tanush)  
 - **Repository:** [https://github.com/tech-tanush/civic-sense](https://github.com/tech-tanush/civic-sense)
 
